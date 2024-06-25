@@ -2,7 +2,8 @@
 #### In this lab, I setup an active directory network and onboarded users
 ## Architecture
 ![Architecture](./images/architecture.png)
-Objective
+
+### Objective
 - Environments Preparation
 - Setup Domain Control/AD Server
 - Create/Onboard 1000k Users in AD
