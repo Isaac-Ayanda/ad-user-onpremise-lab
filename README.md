@@ -36,3 +36,6 @@
 ### Create/Onboard 1000k Users in AD
 
 ### Setup and login via another Windows 10 VM
+
+### Conclusion
+In this Lab, I gain an understanding of how active directory works and Windows networking.
